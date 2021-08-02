@@ -1,0 +1,26 @@
+.grid{
+    display : flex;
+    justify-content : left;
+}
+
+.bird{
+
+    display : flex;
+    justify-content: left;
+}
+
+.boat{
+
+    display : flex;
+    justify-content: left;
+}
+
+.title{
+
+    background : yellow;
+}
+
+.body{
+
+    background : yellow;
+}
